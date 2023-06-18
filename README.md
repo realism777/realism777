@@ -1,5 +1,6 @@
 ## Hi 👋
 I'm realism, an inexperienced Lua and Javascript Developer
+(idk how shit works)
 
 
 
