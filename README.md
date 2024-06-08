@@ -1,5 +1,5 @@
-## Hi 👋
-I'm realism, a Lua and Javascript Developer
+## hi 👋
+I'm realism, i make stuff
 
 
 
